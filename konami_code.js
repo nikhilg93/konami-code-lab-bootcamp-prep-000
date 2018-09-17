@@ -27,7 +27,7 @@ function init() {
   } else {
     count = 0;
   }
-});
+}, true);
 }
 
 init();
